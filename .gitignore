@@ -1,0 +1,8 @@
+**/__pycache__/
+**/*.csv
+**/*.0
+**/*.log
+**/*.xls
+**/*.xlsx
+**/*.html
+**/*.json
